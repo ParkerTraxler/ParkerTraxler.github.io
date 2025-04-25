@@ -1,6 +1,6 @@
 ---
 title: "EManage"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Simple Flask employee management platform<br/><img src='/images/emanage.png'>"
 collection: portfolio
 ---
 
