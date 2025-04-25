@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
+title: "EManage"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+EManage is an easy-to-use employee management platform with dynamic approval workflows, access control, and user management created entirely in the Flask microframework. A demonstration of the project can be found [here](https://youtu.be/teg0KuJt37M).
+
+The source code for the project can be found at [this](https://github.com/ParkerTraxler/EManage) GitHub repository. Any feedback, comments, or suggestions will be greatly appreciated.
