@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a developer and student with an interest in full-stack development. I'm currently diving deeper into backend development using **Flask**, **Node.js**, and **MySQL**, while also gaining proficiency in **Linux system administration** and **cloud platforms** like **Azure**.
 
-My technical toolbox spans across multiple domains:
+Here's my technical toolbox:
 - **Web Development**: Node.js, Express, Flask
 - **Programming Languages**: Python, JavaScript, C/C++
 - **Cloud & DevOps**: Docker, Azure
@@ -19,7 +19,4 @@ I’m especially interested in building robust systems that are secure, scalable
 
 I believe in learning by doing. I’ve completed several projects that integrate **authentication systems**, **role-based access control**, and **organizational reporting**—and I'm always eager to take on new technical challenges that push me further.
 
-📫 Feel free to reach out or check out my code!
----
-
-
+My resume can be found [here](files/resume.pdf).
